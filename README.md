@@ -24,7 +24,7 @@
 Clone the repo and install dependencies:
 
 ```bash
-git clone --depth 1 --branch main https://github.com/electron-react-boilerplate/electron-react-tailwind.git your-project-name
+git clone --depth 1 --branch master https://github.com/MartinBergmann01000101/electron-react-tailwind.git notably
 cd your-project-name
 npm install
 ```
